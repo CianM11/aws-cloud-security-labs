@@ -138,7 +138,9 @@ This lab builds on earlier work in detection and compliance by adding **post-eve
 Screenshots captured for this lab include:
 
 * CloudTrail Event History filtered for IAM activity
-* Detailed CloudTrail event view for a high-risk IAM action
+![IAM Event Timeline](screenshots/iam-event-timeline.png)
 
-(Stored in the `screenshots/` directory)
+* Detailed CloudTrail event view for a high-risk IAM actio
+![Create User Details](screenshots/createuser-details.png)
+
 

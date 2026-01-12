@@ -148,4 +148,4 @@ Screenshots captured for this lab include:
 ![Event Timeline](screenshots/cloudtrail-event.png)
 
 * JSON File Showing Policies Included
-![JSON File](screenshots/JSON.png)
+![JSON File](screenshots/json.png)

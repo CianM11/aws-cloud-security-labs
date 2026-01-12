@@ -139,3 +139,13 @@ This lab strongly aligns with **AWS Security – Specialty** exam objectives and
 * No resources or paid services left enabled
 
 ---
+
+## Screenshots
+
+Screenshots captured for this lab include:
+
+* CloudTrail Event History
+![Event Timeline](screenshots/cloudtrail-event.png)
+
+* JSON File Showing Policies Included
+![JSON File](screenshots/JSON.png)
